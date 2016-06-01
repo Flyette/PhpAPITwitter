@@ -4,10 +4,10 @@ require 'vendor/autoload.php';
 
 /** Set access tokens here - see: https://dev.twitter.com/apps/ **/
 $settings = array(
-    'oauth_access_token' => "4503881386-PvJFHiNRQPhyEVjlzAE9dNzVNRNuA2OHr0Rwiti",
-    'oauth_access_token_secret' => "0DuSSRasU42C82FhIQZI60SU8of7JJT9QGLxnNRmCV3bo",
-    'consumer_key' => "vKIaysRNtXw5VxpGV3NlcAI6N",
-    'consumer_secret' => "L7uvXAJJSlyAXn1OnjAeIrSAArfRPNKk3aCbspDt1vMfTi3FVy"
+    'oauth_access_token' => "",
+    'oauth_access_token_secret' => "",
+    'consumer_key' => "",
+    'consumer_secret' => ""
 );
 
 $url = "https://api.twitter.com/1.1/statuses/user_timeline.json";
